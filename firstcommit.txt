@@ -4,3 +4,4 @@ Hi I am First.
 3) to add the file fro local machine to git repo- git add Filename
 4) to check the status - git status
 5) to commit - git commit -m "message"
+6) to check the log - git log
