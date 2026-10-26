@@ -5,3 +5,8 @@ Hi I am First.
 4) to check the status - git status
 5) to commit - git commit -m "message"
 6) to check the log - git log
+7) to add the all the files fromthe folder - git add .
+8) to remove the file from git- first delete it from repo- git rm --cached Filename 
+                                then remove from your local repo
+9)to understand the origin- git origin -v
+10) to push the file on git- git push origin branch name    //branchname- master or main
