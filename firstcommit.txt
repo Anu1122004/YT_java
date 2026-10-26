@@ -8,5 +8,7 @@ Hi I am First.
 7) to add the all the files fromthe folder - git add .
 8) to remove the file from git- first delete it from repo- git rm --cached Filename 
                                 then remove from your local repo
-9)to understand the origin- git origin -v
-10) to push the file on git- git push origin branch name    //branchname- master or main
+9) first make new repo on git copy the url
+10)git remote add origin url
+11)to understand the origin- git origin url -v
+12) to push the file on git- git push origin branchname    //branchname- master or main
