@@ -1,1 +1,6 @@
 Hi I am First.
+1) init th git repo- git init
+2) to chnage the branch from master to main- git branch -m master main
+3) to add the file fro local machine to git repo- git add Filename
+4) to check the status - git status
+5) to commit - git commit -m "message"
